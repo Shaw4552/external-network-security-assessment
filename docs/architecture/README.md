@@ -1,5 +1,9 @@
 # External Scanner Architecture
 
+![Sanitized external security assessment architecture](external-assessment-public.png)
+
+*Illustrative topology only; no internal access was demonstrated by the initial assessment.*
+
 ## Purpose
 
 Assess authorized external network exposure from a
