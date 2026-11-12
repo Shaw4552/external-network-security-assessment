@@ -60,7 +60,9 @@ TCP/IP | Nmap | Troubleshooting | Documentation
 
 ## Documentation
 
-See [Deployment Case Study](docs/deployment-case-study.md).
+- [Deployment Case Study](docs/deployment-case-study.md)
+- [Architecture](docs/architecture/README.md)
+- [Assessment Methodology](docs/methodology/README.md)
 
 ## Security and Privacy
 
